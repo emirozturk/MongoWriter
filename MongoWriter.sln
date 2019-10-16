@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoWriter", "MongoWriter\MongoWriter.csproj", "{744C059C-BFD5-4208-8AB4-C525A895140E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{744C059C-BFD5-4208-8AB4-C525A895140E}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{744C059C-BFD5-4208-8AB4-C525A895140E}.Debug|anycpu.Build.0 = Debug|anycpu
+		{744C059C-BFD5-4208-8AB4-C525A895140E}.Release|anycpu.ActiveCfg = Release|anycpu
+		{744C059C-BFD5-4208-8AB4-C525A895140E}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
